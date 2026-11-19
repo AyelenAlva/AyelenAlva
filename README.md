@@ -14,7 +14,4 @@ Acá vas a encontrar trabajos prácticos de la tecnicatura, ejercicios y proyect
 
 ## 🛠️ Tecnologías
 
-**Frontend y mobile:** Angular · React · TypeScript · JavaScript · Tailwind CSS · Bootstrap · Flutter · React Native
-**Backend:** Java · Spring Boot · Node.js · Express · Python · FastAPI · PHP · APIs REST
-**Bases de datos:** PostgreSQL · MySQL · MongoDB
-**Herramientas:** Git · GitHub · Docker · Postman · Figma · Scrum
+<p align="left"> <img src="https://skillicons.dev/icons?i=ts,js,html,css,python,php,react,nodejs,tensorflow,docker,nginx,git,github,vscode&perline=11" alt="Tecnologías"/> </p>
