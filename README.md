@@ -1,24 +1,20 @@
-<h1 align="center">Hola 👋 soy Ayelen / AyelenAlva ✨</h1>
+# Hola soy Ayelen ✨
 
----
-   
-## Sobre mí 😃
+**Desarrolladora Full Stack & Frontend** · Técnica Superior en Desarrollo de Software Multiplataforma · Formosa, Argentina 🇦🇷
 
-💻 Me apasiona el desarrollo web y la inteligencia artificial: hago desde apps con React y TypeScript hasta modelos de Machine Learning con TensorFlow y Keras
+## Sobre mí ✨
 
-🚀 Trabajé en proyectos en equipo como sistemas de ventas, dashboards y backends con Docker
+# Hola, soy Ayelen 👋
 
-🌱 Siempre aprendiendo algo nuevo... y en un futuro, ¿quién sabe? 😉
+Soy desarrolladora full stack. Me gusta trabajar en todas las partes de un proyecto
 
-## Tecnologías conocidas 👩‍💻
+Lo que más uso es Angular, React y TypeScript para web, Flutter y React Native para mobile, y Node.js, Java con Spring Boot y PostgreSQL del lado del servidor.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,python,php,react,nodejs,tensorflow,docker,nginx,git,github,vscode&perline=11" alt="Tecnologías"/>
-</p>
+Acá vas a encontrar trabajos prácticos de la tecnicatura, ejercicios y proyectos que fui armando para aprender cosas nuevas
 
-## Estadísticas 📊
+## 🛠️ Tecnologías
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AyelenAlva&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyelenAlva&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes"/>
-</p>
+**Frontend y mobile:** Angular · React · TypeScript · JavaScript · Tailwind CSS · Bootstrap · Flutter · React Native
+**Backend:** Java · Spring Boot · Node.js · Express · Python · FastAPI · PHP · APIs REST
+**Bases de datos:** PostgreSQL · MySQL · MongoDB
+**Herramientas:** Git · GitHub · Docker · Postman · Figma · Scrum
