@@ -14,4 +14,4 @@ Acá vas a encontrar trabajos prácticos de la tecnicatura, ejercicios y proyect
 
 ## 🛠️ Tecnologías
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=ts,js,html,css,python,php,react,nodejs,tensorflow,docker,nginx,git,github,vscode&perline=11" alt="Tecnologías"/> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,bootstrap,flutter,dart" alt="Frontend y mobile"/> <br/> <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,java,spring,postgres,mysql,mongodb" alt="Backend y bases de datos"/> <br/> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" alt="Herramientas"/> </p>
